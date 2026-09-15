@@ -13,31 +13,12 @@
 5. Statistical Proof :- Executed One-Way ANOVA testing confirming significant profit variation across seasons ($p\text{-value} = 1.71 \times 10^{-15}$).
   
 ## Attached Deliverables & Files
-1. Documentation :-
-2. Problem Statement :- 
-3. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Documentation :- 01_README.md
+2. Problem Statement :- 02_Problem_Statement.pdf
+3. Dataset :- 03_Dataset.csv
+4. Solution and Source Code :- 04_Solution_and_Source_Code.ipynb
+5. Presentaton PDF :- 05_Project_Presentation_PDF.pdf
+6. Presentaton PPT :- 06_Project_Presentation_PPT.pptx
 
 
 
